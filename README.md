@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rickysch
-- 👀 Currently studying CS
+- 👀 Currently learning JS
 
 - 📫 bigshmoney Rick#1337
